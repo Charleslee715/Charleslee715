@@ -28,9 +28,3 @@
 ### 🎨 Creative & Design
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ---
-
-
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Charleslee715&icon=6&color=6" />
-</p>
