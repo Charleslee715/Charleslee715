@@ -13,7 +13,10 @@
 
 
 
-## 💻 Skills
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydG9hYWVlNmVwajE1YjZvY2F4MTUzYW01Z2Vub3M0bDlyYmpudW03ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/200.gif" width="35" vertical-align="middle" /> Skills
+
+
 
 ### 🧪 Data Engineering & AI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
