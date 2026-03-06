@@ -1,8 +1,7 @@
-# Hi there, I'm Charles 👋
+# Hi there, I'm Charles <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" align="right" width="120" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-lee-18945620a/) 
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:charleslee50612@gmail.com)
 ## 💫 About Me
-
 
 🎓 **MSc Data Analytics & Artificial Intelligence student at EDHEC Business School**, with dual Bachelor’s degrees in Business Administration and Advertising. Experienced in applying data analytics and business strategy to optimise marketing performance and support decision-making.
 
@@ -12,7 +11,7 @@
 
 📊 I apply data analytics and business strategy to solve organisational challenges, with experience in international teamwork and AI-driven insights.
 
----
+
 
 ## 💻 Skills
 
@@ -27,4 +26,5 @@
 
 ### 🎨 Creative & Design
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
----
+
+<img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" align="right" width="200" />
