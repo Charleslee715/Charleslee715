@@ -14,22 +14,26 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Skills
 
-| Category | Tools |
-| :--- | :--- |
-| **Data & AI** | Python, R, SQL, NumPy, Pandas, Scikit-Learn, MLflow |
-| **Visualisation** | Tableau, Power BI, Matplotlib |
-| **Cloud & Dev** | AWS, GCP, GitHub |
-| **Design** | Adobe Creative Cloud (Ps, Ai, Id, Pr), Figma |
+### 🧪 Data & AI
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
 
+### 📊 Visualization & Strategy
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 🎨 Creative & Design
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ---
 
 ## 📊 GitHub Insights
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Charleslee715&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charleslee715&theme=tokyonight&hide_border=true&layout=compact" width="300" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Charleslee715&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Charleslee715&theme=tokyonight&hide_border=true&layout=compact" width="300" />
 </p>
 
 ---
