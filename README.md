@@ -28,27 +28,3 @@
 ### 🎨 Creative & Design
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ---
-# 🚀 Pinned Projects
-<p align="center">
-  <a href="https://github.com/Charleslee715/YOUR-REPO-NAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charleslee715&repo=YOUR-REPO-NAME&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Charleslee715/ANOTHER-REPO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charleslee715&repo=ANOTHER-REPO&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-# 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charleslee715&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
----
-
-# 📊 Activity & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charleslee715&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charleslee715&theme=tokyonight&hide_border=true" width="48%" />
-</p>
