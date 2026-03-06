@@ -1,13 +1,16 @@
-# 💫 About Me
+# Hi there, I'm Charles 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-lee-18945620a/) 
 
-**MSc Data Analytics & AI Student @ EDHEC Business School**
-*Dual Bachelor’s in Business Administration & Advertising*
+## 💫 About Me
 
-I bridge the gap between complex data and business strategy. I specialize in turning raw campaign data into actionable insights using Python, SQL, and Machine Learning.
 
-* 💼 **Focus:** Digital Marketing Analytics & Business Strategy
-* 🚀 **Goal:** Applying AI & Data Science to international business environments
-* 📍 **Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-lee-18945620a/) 
+🎓 **MSc Data Analytics & Artificial Intelligence student at EDHEC Business School**, with dual Bachelor’s degrees in Business Administration and Advertising. Experienced in applying data analytics and business strategy to optimise marketing performance and support decision-making.
+
+💻 Proficient in Python, SQL, Tableau, and machine learning, with hands-on experience in digital marketing analytics, reporting automation, and market insights.
+
+💼 I have worked on digital marketing analytics and business strategy projects, where I focused on turning data into actionable insights to optimise campaign performance, understand customer behaviour, and support decision-making.
+
+📊 I apply data analytics and business strategy to solve organisational challenges, with experience in international teamwork and AI-driven insights.
 
 ---
 
@@ -16,7 +19,7 @@ I bridge the gap between complex data and business strategy. I specialize in tur
 | Category | Tools |
 | :--- | :--- |
 | **Data & AI** | Python, R, SQL, NumPy, Pandas, Scikit-Learn, MLflow |
-| **Visualization** | Tableau, Power BI, Matplotlib |
+| **Visualisation** | Tableau, Power BI, Matplotlib |
 | **Cloud & Dev** | AWS, GCP, GitHub |
 | **Design** | Adobe Creative Cloud (Ps, Ai, Id, Pr), Figma |
 
