@@ -1,7 +1,11 @@
-# Hi there, I'm Charles <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" align="right" width="120" />
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydjY4dTRzZHhqdWtwem55bnkwZ2I4ZzU5MnpoeW81aHA1Zm8zbGxxYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ut9IfYd8U1C0CNQi76/200.gif" width="35" vertical-align="Left" /> Hi there, I'm Charles <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" align="right" width="120" />
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-lee-18945620a/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:charleslee50612@gmail.com)
-## 💫 About Me
+
+## <img src="https://images.squarespace-cdn.com/content/v1/5a95f529af20964fa337f9d3/1519959711155-3F15QOYRWQCUEJKRY9RM/adam.gif" width="50" vertical-align="middle" /> About Me
 
 🎓 **MSc Data Analytics & Artificial Intelligence student at EDHEC Business School**, with dual Bachelor’s degrees in Business Administration and Advertising. Experienced in applying data analytics and business strategy to optimise marketing performance and support decision-making.
 
@@ -14,7 +18,7 @@
 
 
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydG9hYWVlNmVwajE1YjZvY2F4MTUzYW01Z2Vub3M0bDlyYmpudW03ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/200.gif" width="35" vertical-align="middle" /> Skills
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydG9hYWVlNmVwajE1YjZvY2F4MTUzYW01Z2Vub3M0bDlyYmpudW03ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/200.gif" width="50" vertical-align="middle" /> Skills
 
 
 
