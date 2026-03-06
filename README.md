@@ -29,12 +29,6 @@
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ---
 
-## 📊 GitHub Insights
-
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Charleslee715&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Charleslee715&theme=tokyonight&hide_border=true&layout=compact" width="300" />
-</p>
 
 ---
 <p align="center">
